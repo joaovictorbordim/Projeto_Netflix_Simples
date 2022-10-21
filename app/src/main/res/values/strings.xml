@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Netflix</string>
+    <string name="title">BLACK ADAM</string>
+    <string name="sub_title">Premiere</string>
+    <string name="menu_message">message</string>
+    <string name="menu_volume">volume</string>
+    <string name="menu_favorite">favorite</string>
+    <string name="menu_copy">copy</string>
 </resources>
